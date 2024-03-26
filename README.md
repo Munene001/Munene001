@@ -1,5 +1,7 @@
 🔭 ### Lawrence Munene
+
 **`Software Engineer(Digital Craftman)`**
+
  ⚡I'm a techie deeply passionate about technology. Proficient in PHP for web development, Flutter for Android apps, and Svelte/React for dynamic web interfaces. Committed to growth, collaboration, and excellence in all pursuits.
 
  ### 🧰 Languages and Tools
