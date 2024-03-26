@@ -1,4 +1,4 @@
-🔭 ### Lawrence Munene
+🔭Lawrence Munene
 
 **`Software Engineer(Digital Craftman)`**
 
